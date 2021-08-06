@@ -1,8 +1,8 @@
 ---
 # abstract: Invasion. 
-author_notes:
-- Equal contribution
-- Equal contribution
+# author_notes:
+# - Equal contribution
+# - Equal contribution
 authors:
 - admin
 - Irfan Rashid
