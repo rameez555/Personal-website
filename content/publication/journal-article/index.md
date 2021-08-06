@@ -7,8 +7,8 @@ authors:
 - admin
 - Irfan Rashid
 - Maroof Hamid
-- Akhtar H. Malik
-- Anzar A. Khuroo
+- Akhtar H Malik
+- Anzar A Khuroo
 # date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
