@@ -20,8 +20,8 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: ' I recently started to learn Python to run some of mu analyses'
-  icon: Python
+- description: ' I recently started to learn Python to run some of my analyses'
+  icon: python
   icon_pack: fab
   name: Python    
 - description: 'I have about 4 years of experience in statistical analysis of different types of data'
