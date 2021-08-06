@@ -24,10 +24,10 @@ publication_types:
 - "2"
 publishDate: "2020-06-01T00:00:00Z"
 # slides: example
-summary: Plant invasion alters the physico-chemical dynamics of soil system insights from invasive *Leucanthemum vulgare* in the Indian Himalaya.
+summary: Plant invasion alters the physico-chemical dynamics of soil system insights from invasive Leucanthemum vulgare in the Indian Himalaya.
 tags:
 - Source Themes
-title: Plant invasion alters the physico-chemical dynamics of soil system insights from invasive *Leucanthemum vulgare* in the Indian Himalaya
+title: Plant invasion alters the physico-chemical dynamics of soil system insights from invasive Leucanthemum vulgare in the Indian Himalaya
 # url_code: ""
 # url_dataset: ""
 # url_pdf: 
