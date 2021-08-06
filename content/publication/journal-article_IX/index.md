@@ -26,10 +26,10 @@ publication_types:
 - "2"
 publishDate: "2020-04-01T00:00:00Z"
 # slides: example
-summary: Early evidence of shifts in Alpine summit vegetation: a case study from Kashmir Himalaya.
+summary: Early evidence of shifts in Alpine summit vegetation a case study from Kashmir Himalaya.
 tags:
 - Source Themes
-title: Early evidence of shifts in Alpine summit vegetation: a case study from Kashmir Himalaya
+title: Early evidence of shifts in Alpine summit vegetation a case study from Kashmir Himalaya
 # url_code: ""
 # url_dataset: ""
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fpls.2020.00421/full"
