@@ -25,10 +25,10 @@ publication_types:
 - "2"
 publishDate: "2020-06-01T00:00:00Z"
 # slides: example
-summary: cale and season determine the magnitude of invasion impacts on plant communities.
+summary: Scale and season determine the magnitude of invasion impacts on plant communities.
 tags:
 - Source Themes
-title: cale and season determine the magnitude of invasion impacts on plant communities
+title: Scale and season determine the magnitude of invasion impacts on plant communities
 # url_code: ""
 # url_dataset: ""
 # url_pdf: 
