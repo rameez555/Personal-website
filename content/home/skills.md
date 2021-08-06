@@ -36,6 +36,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- icon: ":mountain:"
+  icon_pack: "emoji"
+  name: "Mountain trekking" 
+  description: "I am trekking the high altidudnal mountainous landscapes from the past 4 years to capture the alpine biodiversity"
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
