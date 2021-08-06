@@ -20,11 +20,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: ' I recently started to learn Python, specifically using <ahref = "https://www.python.org/" target="_blank" rel="noopener noreferrer style="color: #F76F8E>python</a> to run some of mu analyses'
+- description: ' I recently started to learn Python to run some of mu analyses'
   icon: Python
   icon_pack: fab
   name: Python    
-- description: 100%
+- description: 'I have about 4 years of experience in statistical analysis of different types of data'
   icon: chart-line
   icon_pack: fas
   name: Statistics
