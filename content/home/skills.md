@@ -28,7 +28,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 'I am a great lover of open science and greatly value their mission to “increase the openness, integrity, and reproducibility in scientific research”'
+- description: 'I am a great lover of open science and greatly value their mission to increase the openness, integrity, and reproducibility in scientific research'
   icon: osf
   icon_pack: ai
   name: Open Science Framework    
