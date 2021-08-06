@@ -29,8 +29,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/RameezA86349501
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Rameez+Ahmad#
 - icon: github
   icon_pack: fab
