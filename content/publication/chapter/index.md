@@ -19,7 +19,7 @@ links:
 #  url: http://example.org
 projects:
 - internal-project
-publication: In *Invasive Alien Species: Observations and Issues from Around the World volume 2*
+publication: In *Invasive Alien Species Observations and Issues from Around the World volume 2*
 # publication_short: In *STC*
 publication_types:
 - "1"
