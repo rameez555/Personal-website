@@ -4,11 +4,8 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Zubair Ahmad Rather
 - admin
-- Abdul Rashid Dar
-- Tanvir Ul Hassan Dar
-- Anzar Ahmad Khuroo
+- Zubair Ahmad Rather
 # date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
