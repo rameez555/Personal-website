@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2021-03-01T00:00:00Z"
 # slides: example
-summary: Invasion shadows in soil system overshadow the restoration of invaded ecosystems: Implications for invasive plant management.
+summary: Invasion shadows in soil system overshadow the restoration of invaded ecosystems.
 tags:
 - Source Themes
 title: Invasion shadows in soil system overshadow the restoration of invaded ecosystems: Implications for invasive plant management
