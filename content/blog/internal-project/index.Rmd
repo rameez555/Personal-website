@@ -1,0 +1,80 @@
+---
+date: "2016-04-27T00:00:00Z"
+external_link: ""
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+links:
+- icon: github
+  icon_pack: fab
+  name: github material
+  url: https://gist.github.com/netj/8836201
+# slides: example
+summary: A scatter plot blog.
+tags:
+- Deep Learning
+title: Scatter plot
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+This blog post will teach you how to create 2D and 3D scatter plot using an open source dataset called "iris"
+```{r}
+# load the required libraries
+library(car)
+library(psych)
+library("scatterplot3d")
+
+# load the dataset
+data("iris")
+
+# take a brief look at the dataset using head and tail functions
+head(iris)
+tail(iris)
+
+# remove the species column
+iris = iris[,-5]
+
+# create the scatterplot matrix
+scatterplotMatrix(iris)
+
+# to create a scatter plot with density plots and correlation ellipses
+pairs.panels(iris[,-5], 
+  method = "pearson", 
+  hist.col = "#00AFBB", 
+  density = TRUE, 
+  ellipses = TRUE) 
+
+# to create a 3d scatter plot 
+# load the dataset again
+data(iris)
+
+# choose the colours
+colors <- c("#999999", "#E69F00", "#56B4E9")
+colors = colors[as.numeric(iris$Species)]
+s3d = scatterplot3d(iris[,1:3], pch = 16, type="h", color=colors) 
+
+# to set the legend
+legend(s3d$xyz.convert(7.5, 3, 4.5),  legend = levels(iris$Species), 
+col = c("#999999","#E69F00","#56B4E9"),pch=16)
+
+# # to draw an animated 3d scatterplot
+library(rgl)             
+library(magick)
+colors = c("royalblue1","darkcyan","oldlace")
+iris$color <- colors[ as.numeric( as.factor(iris$Species) ) ]
+
+# to create a static plot
+plot3d( iris[,1], iris[,2], iris[,3], col = iris$color, type = "s", radius = .2 )
+
+# to indicate axis and rotation velocity
+play3d( spin3d( axis = c(0, 0, 1), rpm = 20), duration = 10 )  
+movie3d(movie="3dAnimatedScatterplot", 
+spin3d( axis = c(0, 0, 1), rpm = 7),
+duration = 10, dir = "getwd()",type = "gif", 
+clean = TRUE)    # to save as gif file
+
+```
+
