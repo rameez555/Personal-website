@@ -23,10 +23,10 @@ publication_types:
 - "2"
 publishDate: "2021-03-01T00:00:00Z"
 # slides: example
-summary: Symphyotrichum subulatum (Michx.) G.L.Nesom (Asteraceae): a new distribution record of an alien plant species in Kashmir Himalaya, India.
+summary: Symphyotrichum subulatum (Michx.) G.L.Nesom (Asteraceae) a new distribution record of an alien plant species in Kashmir Himalaya, India.
 tags:
 - Source Themes
-title: Symphyotrichum subulatum (Michx.) G.L.Nesom (Asteraceae): a new distribution record of an alien plant species in Kashmir Himalaya, India
+title: Symphyotrichum subulatum (Michx.) G.L.Nesom (Asteraceae) a new distribution record of an alien plant species in Kashmir Himalaya, India
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://checklist.pensoft.net/article/61455/
