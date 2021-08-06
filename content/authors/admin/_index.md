@@ -37,7 +37,13 @@ social:
   link: https://github.com/rameez555
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Rameez-Khuroo  
+  link: https://www.researchgate.net/profile/Rameez-Khuroo 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rameez-khuroo-431817136/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4229-986X  
   
 superuser: true
 title: Rameez Ahmad
