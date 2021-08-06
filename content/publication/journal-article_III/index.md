@@ -1,8 +1,8 @@
 ---
 abstract: Symphyotrichum subulatum (Michx.) G.L.Nesom (Asteraceae) is reported as a new alien plant record for Kashmir Himalaya. The taxonomic identification of species is confirmed on the basis of shape of involucre, floral and seed characters. Detailed description, distribution map, and comments on distribution and ecology are also provided along with photographic illustration to facilitate easy identification of this species. 
-author_notes:
-- Equal contribution
-- Equal contribution
+# author_notes:
+# - Equal contribution
+# - Equal contribution
 authors:
 - Ruquia Gulzar
 - Anzar A. Khuroo
