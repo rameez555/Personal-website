@@ -4,8 +4,11 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
 - Zubair Ahmad Rather
+- admin
+- Abdul Rashid Dar
+- Tanvir Ul Hassan Dar
+- Anzar Ahmad Khuroo
 # date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
@@ -19,7 +22,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-06-01T00:00:00Z"
-slides: example
+# slides: example
 summary: Predicting shifts in distribution range and niche breadth of plant species in contrasting arid environments under climate change.
 tags:
 - Source Themes
