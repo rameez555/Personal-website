@@ -8,7 +8,7 @@ links:
 - icon: github
   icon_pack: fab
   name: github material
-  url: https://github.com/rameez555
+  url: https://gist.github.com/netj/8836201
 # slides: example
 summary: A scatter plot blog.
 tags:
