@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: ' I recently started to learn Python, specifically using <ahref = "https://www.python.org/" target="_blank" rel ="noopener noreferrer" style="color: #F76F8E">python</a> to run some of my analyses'
+- description: ' I recently started to learn Python, specifically using "https://www.python.org/" to run some of my analyses'
   icon: python
   icon_pack: fab
   name: Python    
