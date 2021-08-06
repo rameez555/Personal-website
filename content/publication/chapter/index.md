@@ -21,10 +21,10 @@ projects:
 - internal-project
 publication: In *Invasive Alien Species Observations and Issues from Around the World volume 2*
 # publication_short: In *STC*
-publication_types:
-- "1"
+# publication_types:
+# - "1"
 publishDate: "2021-04-01T00:00:00Z"
-slides: example
+# slides: example
 summary: An Annotated Inventory of Invasive Alien Flora of India.
 tags:
 - Source Themes
