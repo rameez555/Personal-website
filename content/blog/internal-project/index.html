@@ -83,3 +83,19 @@ s3d = scatterplot3d(iris[,1:3], pch = 16, type=&quot;h&quot;, color=colors)
 legend(s3d$xyz.convert(7.5, 3, 4.5),  legend = levels(iris$Species), 
 col = c(&quot;#999999&quot;,&quot;#E69F00&quot;,&quot;#56B4E9&quot;),pch=16)</code></pre>
 <p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-3.png" width="672" /></p>
+<pre class="r"><code># to draw an animated 3d scatterplot
+library(rgl)             </code></pre>
+<pre><code>## Warning: package &#39;rgl&#39; was built under R version 4.0.5</code></pre>
+<pre class="r"><code>library(magick)</code></pre>
+<pre><code>## Warning: package &#39;magick&#39; was built under R version 4.0.5</code></pre>
+<pre><code>## Linking to ImageMagick 6.9.12.3
+## Enabled features: cairo, freetype, fftw, ghostscript, heic, lcms, pango, raw, rsvg, webp
+## Disabled features: fontconfig, x11</code></pre>
+<pre class="r"><code>colors = c(&quot;royalblue1&quot;,&quot;darkcyan&quot;,&quot;oldlace&quot;)
+iris$color &lt;- colors[ as.numeric( as.factor(iris$Species) ) ]
+
+# to create a static plot
+plot3d( iris[,1], iris[,2], iris[,3], col = iris$color, type = &quot;s&quot;, radius = .2 )
+
+# to indicate axis and rotation velocity
+play3d( spin3d( axis = c(0, 0, 1), rpm = 20), duration = 10 )  </code></pre>
