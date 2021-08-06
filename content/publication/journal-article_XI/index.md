@@ -23,7 +23,7 @@ publication: '*Flora, 260*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-06-01T00:00:00Z"
+publishDate: "2019-10-01T00:00:00Z"
 # slides: example
 summary: Scale and season determine the magnitude of invasion impacts on plant communities.
 tags:
