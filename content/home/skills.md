@@ -36,9 +36,6 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-
-
-# Uncomment to use emoji icons.
 - icon = ":camping:"
   icon_pack = "emoji"
   name = "Camping"
