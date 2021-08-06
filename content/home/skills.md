@@ -16,25 +16,37 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: ' I have 4 years of experience using R'
   icon: r-project
   icon_pack: fab
   name: R
+- description: ' I recently started to learn Python, specifically using <ahref = "https://www.python.org/" target="_blank" rel="noopener noreferrer style="color: #F76F8E>python</a> to run some of mu analyses'
+  icon: Python
+  icon_pack: fab
+  name: Python    
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: 'I am a great lover of open science and greatly value their mission to “increase the openness, integrity, and reproducibility in scientific research”'
+  icon: osf
+  icon_pack: ai
+  name: Open Science Framework    
+- description: ' I am very fond to take photographs especially of the plants'
   icon: camera-retro
   icon_pack: fas
   name: Photography
 
-# Uncomment to use emoji icons.
-#- icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
 
+# Uncomment to use emoji icons.
+- icon = ":camping:"
+  icon_pack = "emoji"
+  name = "Camping"
+  description = " I love camping"  
+- icon = ":mountain:"
+  icon_pack = "emoji"
+  name = "Trekking"
+  description = "I like trekking high elevational mountations to unralvel alpine biodiversity"
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
